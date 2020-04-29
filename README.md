@@ -1,7 +1,7 @@
 # Week4
 # DH150 Assignment 4: User Research
 
-### _by Alondra Orn // Digital Humanities 150 at UCLA, Spring 2020 // Dr. Sookie Cho // 04.28.2020
+### by Alondra Orn // Digital Humanities 150 at UCLA, Spring 2020 // Dr. Sookie Cho // 04.28.2020
 
 
 ## Introductory Steps
@@ -43,7 +43,7 @@ Please find my **script** for this interview [here](https://docs.google.com/docu
 
 **2. User Data**
 
-Please find the **recording** of the interview [here](https://youtu.be/eZOOdVbM2HA).
+Please find the **recording** of the interview [here](https://drive.google.com/file/d/1u0E61NiSLf4vb82ArnIGBRdtGa4nkVgJ/view?usp=sharing).
 
 The **transcription** of the interview can be found [here](https://docs.google.com/document/d/1kqBzDjJ_XDwD77_coaovXrem6W9d520NsBAA6oOGvn0/edit?usp=sharing).
 
