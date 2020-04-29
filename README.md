@@ -45,7 +45,7 @@ Please find my **script** for this interview [here](https://docs.google.com/docu
 
 Please find the **recording** of the interview [here](https://drive.google.com/file/d/1u0E61NiSLf4vb82ArnIGBRdtGa4nkVgJ/view?usp=sharing).
 
-The **transcription** of the interview can be found [here](https://docs.google.com/document/d/1kqBzDjJ_XDwD77_coaovXrem6W9d520NsBAA6oOGvn0/edit?usp=sharing).
+The **transcription** of the interview can be found [here](https://docs.google.com/document/d/1dVs-tiMeBpr8dRNEOzpCcI475OKXY8INuFBHOHgxAV4/edit?usp=sharing).
 
 ### Read below for my insights on this data collection
 
